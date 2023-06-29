@@ -12,7 +12,7 @@ Full Stack Web Developer recientemente graduado en el bootcamp de Soy Henry. Pos
 
 📫 Cómo contactarme: tomas.edelcopp@gmail.com 
 
-⚡ Dato curioso: He trabajado 5 años en Gastronomía, previo a adentrarme a adentrarme en la programación. En ese tiempo, desarrolle habilidades de habilidades de comunicación , resolución de problemas y liderazgo. 
+⚡ Dato curioso: He trabajado 5 años en Gastronomía enfocada a eventos, previo a adentrarme a adentrarme en la programación. En ese tiempo, desarrolle habilidades de habilidades de comunicación, resolución de problemas y liderazgo. 
 
 
 
