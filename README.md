@@ -1,27 +1,43 @@
-Hola 👋, Mi nombre es Tomás Edelcopp!
-Full Stack Web Developer recientemente graduado en el bootcamp de Soy Henry. Poseo una orientación hacia el Front-end, me encanta trabajar en equipo y colaborar con otros colegas para desarrollar soluciones innovadoras y eficientes. Mi objetivo es aplicar mis conocimientos tanto en la creación de aplicaciones web y móviles intuitivas, fáciles de usar y que mejoren la experiencia del usuario.
+# Project Title
+
+A brief description of what this project does and who it's for
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tedelcopp)  
+# Hi, I'm Katherine! 👋
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edelcopp/) 
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-te.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/edelcopp)
+
+
  
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-te.vercel.app/)  
-
-
-
-• Habilidades: Javascript, React, Redux, HTML5, CSS, Node, Express, PostgreSQL, Sequelize.
-
-🔭 Estoy trabajando en varios proyectos que tienen vas practicas en código para mejorar el SEO del desarrollo de mis proyectos.como objetivo principal fomentar mi 
-  crecimiento y adquisición de nuevos conocimientos. 
-  
-🌱 Estoy aprendiendo nuevas practicas en código para mejorar el SEO de mis proyectos. 
-
-📫 Cómo contactarme: tomas.edelcopp@gmail.com 
-
-⚡ Dato curioso: He trabajado 5 años en Gastronomía enfocada a eventos, previo a adentrarme a adentrarme en la programación. En ese tiempo, desarrolle habilidades de habilidades de comunicación, resolución de problemas y liderazgo. 
-
-
-
