@@ -57,17 +57,16 @@
 ###
 
 <h2 align="left">How to reach me:</h2>
-
-###
-
 <br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/edelcopp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="22" alt="linkedin logo"  />
   </a>
   <a href=mailto:"tomas.edelcopp@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="22" alt="gmail logo"  />
+  </a>
+  <a href="https://portfolio-te.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=flat" height="22" alt="portfolio link"  />
   </a>
 </div>
 
