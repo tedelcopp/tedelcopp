@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Tomás Edelcopp! 👋</h1>
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer from Argentina. 
 
 📫 How to reach me: tomas.edelcopp@gmail.com
 
