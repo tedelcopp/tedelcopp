@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="22" alt="gmail logo"  />
   </a>
   <a href="https://portfolio-te.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=my&color=000000&logoColor=white&labelColor=&style=flat" height="22" alt="portfolio link"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=flat" height="22" alt="portfolio link"  />
   </a>
 </div>
 
