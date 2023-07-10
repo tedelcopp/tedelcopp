@@ -5,7 +5,7 @@ I'm a Full Stack Developer
 ---------------------------
 
 * 🌍  I'm based in Argentina.
-* 🖥️  See my portfolio at [this link.](http://https://portfolio-te.vercel.app/)
+* 🖥️  See my portfolio at [this link.](http://portfolio-te.vercel.app/)
 * ✉️  You can contact me at [tomas.edelcopp@gmail.com](mailto:tomas.edelcopp@gmail.com)
 * 🚀  I'm currently working on [PatchMe.](http://https://portfolio-te.vercel.app/)
 * 🧠  I'm learning new things.
