@@ -35,7 +35,7 @@ I'm a Full Stack Developer
 
 ### Languages
 
-🌎 Spanish 🌎 English
+✅ Spanish ✅ English
 
 ### Follow Me
 <a href="https://www.github.com/tedelcopp" target="_blank" rel="noreferrer"><img
