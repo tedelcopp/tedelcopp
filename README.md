@@ -9,7 +9,7 @@ I am a Full Stack Developer
 * ✉️  You can contact me at [tomas.edelcopp@gmail.com](mailto:tomas.edelcopp@gmail.com)
 * 🚀  I'm currently working on [PatchMe.](http://https://portfolio-te.vercel.app/)
 * 🧠  I'm learning new things.
-* ⚡  In every corner of my house, there is always a plant. And if not, a new plant is welcome.
+* 🌱  In every corner of my house, there is always a plant. And if not, a new plant is welcome.
 
 ### Skills
 
