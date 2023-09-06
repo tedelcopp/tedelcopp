@@ -7,7 +7,7 @@ I'm a Full Stack Developer
 * 🌍  I'm based in Argentina.
 * 🖥️  See my portfolio at [this link.](http://portfolio-te.vercel.app/).
 * ✉️  You can contact me at [tomas.edelcopp@gmail.com](mailto:tomas.edelcopp@gmail.com)
-* 🚀  I'm currently working on [Grow App](http://https://portfolio-te.vercel.app/)
+* 🚀  I'm currently working on [Grow App](http://https://portfolio-te.vercel.app/).
 * 🧠  I'm learning new things.
 * 🌱  In every corner of my house, there is always a plant. And if not, a new plant is welcome.
 
