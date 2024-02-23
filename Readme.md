@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Full Stack Developer
 ---------------------------
 
-* 🌍  I'm based in Argentina.
+* 🌍  I'm based in Buenos Aires, Argentina.
 * 🖥️  See my portfolio at [this link.](http://portfolio-te.vercel.app/).
 * ✉️  You can contact me at [tomas.edelcopp@gmail.com](mailto:tomas.edelcopp@gmail.com)
 * 🚀  I'm currently working on Patch&Me, an ecommerce that i am developing on my own. Know more, [here.](https://patch-me-front.vercel.app/)
