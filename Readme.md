@@ -38,7 +38,7 @@ I'm a Full Stack Developer
 </p>
 
 ### Follow Me
-<p align="left">
+<p align="center">
 <a href="https://www.github.com/tedelcopp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tedelcopp?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 </p>
