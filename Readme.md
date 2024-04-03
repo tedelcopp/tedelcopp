@@ -29,17 +29,16 @@ I'm a Full Stack Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-###  • Socials
+<h3 align="center">Social</h3>
 
 <p align="center"> <a href="https://discord.com/users/tedelcopp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tedelcopp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tedelcopp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-###  • Languages
+<h3 align="center">Languages</h3>
 <p align="center">
 🌍 Spanish 🌍 English
 </p>
 
-###  •  Follow Me
+<h3 align="center">Follow Me</h3>
 <p align="center">
 <a href="https://www.github.com/tedelcopp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tedelcopp?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
