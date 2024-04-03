@@ -8,7 +8,7 @@ I'm a Full Stack Developer
 * 🖥️  See my portfolio [here.](http://portfolio-te.vercel.app/).
 * ✉️  You can contact me at [tomas.edelcopp@gmail.com](mailto:tomas.edelcopp@gmail.com)
 * 🚀  I'm currently working on Patch&Me, an ecommerce that i am developing on my own. Know more, [here.](https://patch-me-front.vercel.app/)
-* 🧠  I'm studying software development at the IFTS.
+* 🧠  I'm studying Software Development at the IFTS.
 * 🌱  In every corner of my house, there is always a plant. And if not, a new plant is welcome.
 
 ###   • Skills
